@@ -1,0 +1,20 @@
+#: locale=en
+
+## Media
+
+### Title
+model_E4961278_C233_DF82_41E6_959CAB09446E.label = untitled
+
+## Skin
+
+### Button
+Button_F6843ACF_C231_CC9E_41E6_07DB31EA8EA6.label = Clear Measurment
+Button_F29AEDC6_C230_C48E_41E5_9F07D0D93E66.label = Measure
+Button_F6CAEDD7_C230_448E_41D4_F880B3D15FD4.label = Stop Measuring
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
